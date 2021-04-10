@@ -1,4 +1,4 @@
-# Prep kali for HTB or THM
+# HTB or THM Tunnel IP in promt line same as pwnbox from HTB
 Kali zsh file with extra vpn shell files for adding IP in PS1 header.
 
 ## Prompt string to be modified
