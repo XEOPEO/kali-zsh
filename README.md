@@ -12,3 +12,4 @@ For this to work you have to place the `vpn*.sh` file in the folder `/opt`
 ```
 source ~/.zshrc
 ```
+![image](https://user-images.githubusercontent.com/3829939/114279840-e1139300-9a36-11eb-9829-e750cae06df3.png)
