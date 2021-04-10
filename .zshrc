@@ -186,8 +186,6 @@ alias la='ls -A'
 alias l='ls -CF'
 
 # some custom aliases
-alias thmvpn='sudo openvpn /etc/openvpn/profiles/xeopeo-thm.ovpn'
-alias htbvpn='sudo openvpn /etc/openvpn/profiles/xeopeo-htb.ovpn'
 
 # enable auto-suggestions based on the history
 if [ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]; then
