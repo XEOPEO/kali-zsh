@@ -1,5 +1,6 @@
 # HTB or THM Tunnel IP in promt line same as pwnbox from HTB
 Kali zsh file with extra vpn shell files for adding IP in PS1 header.
+The VPN files are originally from (Pwnbox repo)[https://github.com/theGuildHall/pwnbox]
 
 ## Prompt string to be modified
 ```
